@@ -7,6 +7,7 @@ class Main {
 			cnt++;
 			n=n-cnt;
 			if(n%cnt==0) answer++;
+
 		}
 		return answer;
 	}
